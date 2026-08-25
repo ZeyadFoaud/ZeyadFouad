@@ -16,7 +16,7 @@ A hybrid retrieval-augmented generation Q&A system combining BM25 keyword search
 
 - 5-stage pipeline: BM25 → dense retrieval → hybrid fusion → cross-encoder re-ranking (ms-marco-MiniLM) → Flan-T5 generation
 - Live pipeline-stage visualization UI + retrieval/generation analytics dashboard
-- **[View the repo →](https://github.com/your-username/nexus-rag)**
+- **[View the repo →](https://github.com/ZeyadFouad/nexus-rag)**
 
 ---
 
